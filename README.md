@@ -1,6 +1,6 @@
 
 FailCoin development tree
-
+===========================
 FailCoin is a PoS-based cryptocurrency.
 
 Development process
